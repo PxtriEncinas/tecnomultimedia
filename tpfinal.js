@@ -1,3 +1,7 @@
+//Nombre: Encinas Noelia Patricia
+//Legajo: 94726/8
+//Comision 4
+//TPFinal
 let img = [];
 let boto = [];
 let deci = [];
