@@ -2,7 +2,6 @@
 //Legajo: 94726/8
 //Comision 4
 //TP#4
-//Video: https://youtu.be/z7xgXnHg17o?si=hgS7Fp3CRwH0YlYe
 let pelotaX, pelotaY, pelotaVelX = 3, pelotaVelY = -3;
 let paletaX, paletaY, paletaAncho = 90, paletaAltura = 15;
 let filaLadri = 5, columnaLadri = 10;
